@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey, I'm Brian.
+* 🎨 UI/UX Designer
+* 👨‍🎓 Brushing up on some rusty coding skills
+* 💻 Interested in contributing to open source projects
+* 🎵 Musician and vinyl collector
 
 <!--
 **brihuang99/brihuang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
